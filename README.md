@@ -11,10 +11,6 @@ This repository contains a project aimed at detecting deep fake images using mac
   - JavaScript: 0.1%
   - CSS: 0.1%
   - HTML: 0.1%
-- **Created:** 5 hours ago
-- **Last Updated:** Just now
-- **Visibility:** Public
-- **Default Branch:** main
 
 ## Setup Instructions
 To set up this project locally, follow these steps:
